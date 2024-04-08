@@ -10,7 +10,7 @@ An authentication framework that handles authorization/communication with most p
 
 == Description ==
 
-**See the [Keyring Developer's Guide](http://dentedreality.com.au/projects/wp-keyring/) for more details.**
+**See the [Keyring Developer's Guide](https://beaulebens.com/projects/wp-keyring/) for more details.**
 
 Keyring provides a very hookable, completely customizable framework for connecting your WordPress to an external service. It takes care of all the heavy lifting when making authenticated requests, so all you need to do is implement cool features and not worry about these tricky bits.
 
