@@ -45,7 +45,7 @@ And includes ready-to-use definitions for:
 * [Yahoo! Updates](https://yahoo.com/)
 * [YouTube](https://youtube.com/)
 
-You can very easily write your own Service definitions and then use all the power of Keyring to hook into that authentication flow. See the [Keyring Developer's Guide](http://dentedreality.com.au/projects/wp-keyring/) for more details.
+You can very easily write your own Service definitions and then use all the power of Keyring to hook into that authentication flow. See the [Keyring Developer's Guide](https://beaulebens.com/projects/wp-keyring/) for more details.
 
 Contributions are welcome via [Github pull request](https://github.com/beaulebens/keyring).
 
@@ -60,7 +60,7 @@ Contributions are welcome via [Github pull request](https://github.com/beauleben
 
 = How Do I Use Keyring in my Plugin? =
 
-Check out the [Keyring Developer's Guide](http://dentedreality.com.au/projects/wp-keyring/).
+Check out the [Keyring Developer's Guide](https://beaulebens.com/projects/wp-keyring/).
 
 See [Keyring Social Importers](http://wordpress.org/plugins/keyring-social-importers/) for an example. You can also extend Keyring Service classes directly, rather than attaching the service as a property to an object (like the Importers do).
 
